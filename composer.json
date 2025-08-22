@@ -1,0 +1,5 @@
+{
+  "name": "yourname/webhook-app",
+  "description": "Simple PHP webhook test",
+  "require": {}
+}
